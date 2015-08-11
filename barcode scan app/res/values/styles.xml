@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme selector to pick Theme.Light for sdk < 11, Theme.Holo.light for 11+ -->
+    <style name="LightThemeSelector" parent="android:Theme.Light"></style>
+</resources>
+

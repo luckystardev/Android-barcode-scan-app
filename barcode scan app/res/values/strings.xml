@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">NuERA ID Barcode Reader</string>
+    
+    <string name="label_button_scan">Scan a Barcode</string>
+    <string name="label_button_examples">See Examples</string>
+    <string name="label_button_camera_settings">Scanning Settings</string>
+    <string name="heading_menu">NuEra-ID</string>
+    <string name="title_examples">Example Barcodes</string>
+    
+    <string name="please_wait">Please wait</string>
+    <string name="loading_message">Fetching barcode information</string>
+    
+    <!-- Barcode scanning strings -->
+    <string name="scan_title">Install Barcode Scanner?</string>
+    <string name="scan_message">This application requires Barcode Scanner.  Would you like to install it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="description_list_examples">List of examples</string>
+    <string name="no_examples">No examples available</string>
+    <string name="description_nuera_logo">NuEra-ID</string>
+ 
+
+</resources>
+
